@@ -12,3 +12,5 @@ Observação:
 
    Desculpa pelo imprevisto durante a palestra, pois eu não queria levar notebook pra São Paulo  por quê estava com medo de ser roubada, por isso coloquei meu slide em nuvem. Mas no final das contas acabei levando e não tive o cuidado de gerar o .pdf da versão final.
    Agradeço a atenção de todo meu público nessa palestra e  principalmente da https://cryptorave.org/ por ter me dado essa oportunidade.
+
+Atenciosamente, Daniele Nazaré
